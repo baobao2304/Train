@@ -1,0 +1,19 @@
+﻿REGULATIONS
+
+* Installation requirements:
+1. Microsoft Windows operating system
+
+2. Cocos Creator
+Version 1.9.3
+http://cocos2d-x.org/filedown/CocosCreator_1.9.3_win
+
+3. Visual Studio Code
+Version 1.28.2
+https://vscode-update.azurewebsites.net/1.28.2/win32-x64-user/stable
+
+4. GitHub Desktop
+Version 1.4.3
+https://desktop.github.com/
+
+* Push files:
+You will not be allowed to push files larger than 100 MB. If you add a file to a repository via a browser, the file can be no larger than 25 MB.
